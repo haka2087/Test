@@ -3,4 +3,4 @@ Test Github
 
 #Nuevo commit
 
-Se agregado una imagen de la PARRILA
+Se agregado una IMAGEN de la PARRILA
